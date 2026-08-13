@@ -1,0 +1,133 @@
+# NOTICE / AVISO
+
+---
+
+## English
+
+### Authorship and Intellectual Property
+
+**Symbiotic Architecture Protocol (SAP)**  
+**Operational Specification for Invariant-Based Security Co-Architecture**
+
+**Author:** Gonzalo Emir Durante  
+**Email:** duranteg2@gmail.com  
+**Repository:** https://github.com/Leesintheblindmonk1999/SAS-Prompt-Symbiotic-Agent
+
+### Publication and Citation
+
+**Zenodo DOI:** `10.5281/zenodo.21925439`  
+**Record:** https://zenodo.org/records/21925439  
+**Publication Date:** August 13, 2026
+
+To cite this work:
+
+```bibtex
+@software{durante2026sap,
+  author       = {Durante, Gonzalo Emir},
+  title        = {Symbiotic Architecture Protocol (SAP): Operational Specification for Invariant-Based Security Co-Architecture},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.21925439},
+  url          = {https://doi.org/10.5281/zenodo.21925439}
+}
+```
+
+### License
+
+This work is licensed under:
+
+```
+GPL-3.0 + Durante Invariance License
+```
+
+For the complete license text, see the `LICENSE` file in this repository.
+
+### Conditions of Use
+
+1. **Attribution:** Any use, modification, or distribution of this protocol must preserve explicit attribution to Gonzalo Emir Durante.
+2. **Integrity:** The technical integrity of the protocol must be maintained. Derivative works must not misrepresent the methodology or its scope.
+3. **Neutrality:** The protocol must not be presented as exclusive to any geopolitical entity, institution, or closed consortium.
+4. **No Warranty:** This protocol is provided "as is" for research and operational purposes. It does not constitute legal certification, medical judgment, or a universal guarantee against all security failures.
+
+### Disclaimer
+
+SAP is a research-alpha protocol for structural security auditing. It is not a vulnerability scanner, a pentesting tool, or a replacement for formal security verification. All results are context-dependent and bounded by explicit methodological limitations.
+
+### Contact
+
+For licensing, commercial integration, pilots, or technical inquiries:
+
+```
+duranteg2@gmail.com
+```
+
+---
+
+## Español
+
+### Autoría y Propiedad Intelectual
+
+**Symbiotic Architecture Protocol (SAP)**  
+**Especificación Operativa para Co-Arquitectura de Seguridad Basada en Invariantes**
+
+**Autor:** Gonzalo Emir Durante  
+**Email:** duranteg2@gmail.com  
+**Repositorio:** https://github.com/Leesintheblindmonk1999/SAS-Prompt-Symbiotic-Agent
+
+### Publicación y Citación
+
+**Zenodo DOI:** `10.5281/zenodo.21925439`  
+**Registro:** https://zenodo.org/records/21925439  
+**Fecha de Publicación:** 13 de agosto de 2026
+
+Para citar este trabajo:
+
+```bibtex
+@software{durante2026sap,
+  author       = {Durante, Gonzalo Emir},
+  title        = {Symbiotic Architecture Protocol (SAP): Especificación Operativa para Co-Arquitectura de Seguridad Basada en Invariantes},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.21925439},
+  url          = {https://doi.org/10.5281/zenodo.21925439}
+}
+```
+
+### Licencia
+
+Este trabajo está licenciado bajo:
+
+```
+GPL-3.0 + Durante Invariance License
+```
+
+Para el texto completo de la licencia, ver el archivo `LICENSE` en este repositorio.
+
+### Condiciones de Uso
+
+1. **Atribución:** Cualquier uso, modificación o distribución de este protocolo debe preservar la atribución explícita a Gonzalo Emir Durante.
+2. **Integridad:** La integridad técnica del protocolo debe mantenerse. Los trabajos derivados no deben tergiversar la metodología o su alcance.
+3. **Neutralidad:** El protocolo no debe presentarse como exclusivo de ninguna entidad geopolítica, institución o consorcio cerrado.
+4. **Sin Garantía:** Este protocolo se proporciona "tal cual" para fines de investigación y operativos. No constituye certificación legal, juicio médico ni garantía universal contra todas las fallas de seguridad.
+
+### Descargo de Responsabilidad
+
+SAP es un protocolo de investigación alpha para auditoría de seguridad estructural. No es un escáner de vulnerabilidades, una herramienta de pentesting ni un reemplazo de la verificación formal de seguridad. Todos los resultados dependen del contexto y están limitados por restricciones metodológicas explícitas.
+
+### Contacto
+
+Para licenciamiento, integración comercial, pilotos o consultas técnicas:
+
+```
+duranteg2@gmail.com
+```
+
+---
+
+<div align="center">
+
+**Symbiotic Architecture Protocol (SAP)**
+
+`Attribution · Integrity · Neutrality`
+
+</div>
