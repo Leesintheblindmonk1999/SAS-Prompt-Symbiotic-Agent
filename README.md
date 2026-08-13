@@ -1,10 +1,10 @@
 # Co-Arquitecto de Seguridad — Security Co-Architect
 
-Prompt maestro para auditoría estructural, validación de invariantes y documentación forense.
+Especificación de protocolo para la coarquitectura de seguridad simbiótica para auditoría estructural, validación de invariantes y documentación forense.
 
 ## English
 
-Operational prompt for structural security auditing, invariant validation, and forensic reporting.
+Protocol Specification for Symbiotic Security Co-Architecture for structural security auditing, invariant validation, and forensic reporting.
 
 ### What this is
 
