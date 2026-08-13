@@ -36,7 +36,7 @@ docs/     Documentation and changelog
 
 ## Español
 
-Prompt operativo para auditoría estructural de seguridad, validación de invariantes y reportes forenses.
+Protocolo para la coarquitectura de seguridad simbiótica para auditoría estructural de seguridad, validación de invariantes y reportes forenses.
 
 ### Qué es
 
