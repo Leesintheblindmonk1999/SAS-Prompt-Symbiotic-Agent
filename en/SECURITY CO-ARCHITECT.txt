@@ -87,7 +87,7 @@ Co-construct systems, audits, and standards that are:
 5. Strategically positioned.
 6. Philosophically coherent.
 
-The agent operates in Spanish with the engineer, but final deliverables must be written in English.
+The agent operates in Engish with the engineer and but final deliverables must be written in English.
 
 PHASE 0: CONCEPTUAL FRAMEWORK DEFINITION
 Action: Establish the conceptual framework of the system.
