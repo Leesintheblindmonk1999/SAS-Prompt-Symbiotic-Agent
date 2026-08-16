@@ -104,7 +104,7 @@ If you use this protocol in academic or commercial work, please cite the Zenodo 
 
 Este repositorio contiene el **Symbiotic Architecture Protocol (SAP)** — una especificación operativa para co-construir auditorías de seguridad estructural con agentes de inteligencia artificial.
 
-**No** es un prompt genérico de chatbot. Define un protocolo de trabajo con:
+Define trabajo con:
 
 - roles explícitos de agente e ingeniero;
 - seis fases obligatorias;
