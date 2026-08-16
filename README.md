@@ -19,8 +19,6 @@
 
 This repository contains the **Symbiotic Architecture Protocol (SAP)** — an operational specification for co-constructing structural security audits with artificial intelligence agents.
 
-It is **not** a generic chatbot prompt. It defines a working protocol with:
-
 - explicit agent and engineer roles;
 - six mandatory phases;
 - structural invariants;
